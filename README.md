@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/816be408-5591-4ff7-aaca-9aa34394b45c)
+
 🧹 Auto Cleanup for Cloudflare Deployments
 This script automatically deletes old deployments from Cloudflare Pages.
 ✅ Requirements:
