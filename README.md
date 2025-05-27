@@ -7,6 +7,8 @@ This script automatically deletes old deployments from Cloudflare Pages.
   - Edit Pages deployments
   - Edit Workers scripts
 - Environment variables set up correctly.
+
+
 ▶️ Steps:
 1. Place the two downloaded files in a folder.
 2. Open PowerShell as Administrator.
